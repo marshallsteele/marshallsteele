@@ -1,7 +1,10 @@
 ### Welcome:
 
+
 Name: Marshall Steele
+
 School: UOttawa
+
 Program: Software Engineering
 
 <!--
