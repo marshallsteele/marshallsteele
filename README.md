@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome:
+
+Name: Marshall Steele
+School: UOttawa
+Program: Software Engineering
 
 <!--
 **marshallsteele/marshallsteele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
