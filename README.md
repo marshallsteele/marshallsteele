@@ -1,11 +1,5 @@
-### Welcome:
-
-
-Name: Marshall Steele
-
-School: UOttawa
-
-Program: Software Engineering
+# Marshall Steele's Github
+Please visit my [personal website](https://marshallsteele.github.io/personal-website/) to learn a little more about me, my qualifications, and the projects I have been working on.
 
 <!--
 **marshallsteele/marshallsteele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
